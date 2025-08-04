@@ -1,0 +1,118 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+
+/*Selectores*/
+
+
+h2 {
+    color: brown;
+    text-align: center;
+}
+
+h3 {
+    color: goldenrod;
+}
+
+ol li {
+    color: navy;
+}
+
+
+/*Clase*/
+.color-zoro {
+    color: rgb(16, 14, 132);
+    text-align: center;
+    margin-top: 30px;
+}
+
+.caja-zoro {
+    margin-left: 20px;
+}
+
+.caja-sam {
+    margin-left: 20px;
+}
+
+.caja {
+    width: 40%;
+    height: 95px;
+    background-color: lemonchiffon;
+    border: 2px solid blue;
+    padding-left: 150px;
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-bottom: 50px;
+    margin-right: 100px;
+    /*margin: 50px 100px 50px 100px;*/
+}
+
+.fondocolor-doberman {
+    background-color: rgb(114, 133, 235);
+}
+
+.color-titulo {
+    background-color: rgb(181, 245, 210);
+}
+
+
+.dm-sans-letra {
+    font-family: "DM Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+
+.comme-letra-texto {
+    font-family: "Comme", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.prueba-hr {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.titulo-menu {
+    color: white;
+    margin-bottom: 20px;
+    width: 100%;
+    padding-left: 35%;
+
+    position: fixed;
+    background-color: green;
+
+}
+
+/*Id*/
+#color-raza {
+    color: blueviolet;
+}
+
+#color-lista {
+    color: lightslategray;
+}
+
+#color-pitbull {
+    color: tomato;
+}
+
+#color-doberman {
+    color: royalblue;
+}
+
+header .titulo-menu nav ul li a {
+    text-decoration: none;
+    color: white;
+}
+
+header .titulo-menu nav ul li {
+    list-style: none;
+    padding-left: 56%;
+}
+
